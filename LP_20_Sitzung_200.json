@@ -1,0 +1,73 @@
+{
+  "result": {
+    "ProtocolID": "42722d89-8768-4cb6-da53-08dd12b93188",
+    "ProtocolTitle": "200. Sitzung",
+    "ProtocolDate": "2024-11-14T00:00:00Z",
+    "LegislaturePeriod": 20,
+    "ProtocolNumber": 200,
+    "AgendaItemsCount": 4,
+    "AgendaItems": [
+      {
+        "AgendaItemID": "b1bbfee2-8382-4419-38dd-08dd12bb8e01",
+        "AgendaItemTitle": "Höfeordnung sowie Strafprozessordnung",
+        "AgendaItemDescription": "Zweite und dritte Beratung",
+        "AgendaItemNumber": "ZP 5",
+        "AgendaOrder": 1,
+        "AgendaDate": "2024-11-14T09:00:00Z",
+        "MatchAg": "202001",
+        "Speeches": [
+          {
+            "NLPSpeechID": "83c53827-5b68-415f-98fc-386477f59ee8",
+            "SpeakerID": "11003780",
+            "SpeechText": "Der internationale Klimaprozess entstand auf der Weltkonferenz in Rio. Klaus Tpfer und Hans-Peter Repnik verhandeln...",
+            "AbstractSummary": "Der internationale Klimaprozess entstand auf der Weltkonferenz in Rio. Klaus Tpfer und Hans-Peter Repnik verhan..."
+          }
+        ]
+      },
+      {
+        "AgendaItemID": "dc4c6b23-0b56-4b7f-38de-08dd12bb8e01",
+        "AgendaItemTitle": "Überweisungen im vereinfachten Verfahren",
+        "AgendaItemDescription": "a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes",
+        "AgendaItemNumber": "ZP 10",
+        "AgendaOrder": 2,
+        "AgendaDate": "2024-11-14T09:50:00Z",
+        "MatchAg": "202002",
+        "Speeches": [
+          {
+            "NLPSpeechID": "6775c5e5-7ab1-4e21-8784-0573a722ec28",
+            "SpeakerID": "11003815",
+            "SpeechText": "Der Präsident kündigte den Tagesordnungspunkt an: Der Agrarkodex und die Ausweitung der Telekommunikationsb...",
+            "AbstractSummary": "Der Präsident kündigte den Tagesordnungspunkt an: Der Agrarkodex und die Ausweitung der Telekommunikationsb..."
+          }
+        ]
+      },
+      {
+        "AgendaItemID": "061af377-fa67-422a-38df-08dd12bb8e01",
+        "AgendaItemTitle": "Wahlen zu Gremien",
+        "AgendaItemDescription": "a) Wahlvorschläge der Fraktionen",
+        "AgendaItemNumber": "ZP 6 - ZP 8",
+        "AgendaOrder": 3,
+        "AgendaDate": "2024-11-14T09:50:00Z",
+        "MatchAg": "202003",
+        "Speeches": []
+      },
+      {
+        "AgendaItemID": "885570fc-5a06-4c94-38e0-08dd12bb8e01",
+        "AgendaItemTitle": "Aktuelle Stunde: Weltklimakonferenz COP29",
+        "AgendaItemDescription": "Aktuelle Stunde",
+        "AgendaItemNumber": "ZP 9",
+        "AgendaOrder": 4,
+        "AgendaDate": "2024-11-14T09:50:00Z",
+        "MatchAg": "202004",
+        "Speeches": [
+          {
+            "NLPSpeechID": "6f870438-521d-43bc-bab7-4e32cc8906b0",
+            "SpeakerID": "11004091",
+            "SpeechText": "Die Klimakonferenz in Baku, COP 29, findet in geschäftigen Zeiten statt. Ich darf in diesem Jahr nicht teilnehmen.",
+            "AbstractSummary": "Die Klimakonferenz in Baku, COP 29, findet in geschäftigen Zeiten statt. Ich darf in diesem Jahr nicht teilnehmen."
+          }
+        ]
+      }
+    ]
+  }
+}
